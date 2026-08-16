@@ -53,4 +53,4 @@ This policy will be updated when the extension's data practices change. Material
 
 Questions, privacy requests, and support reports can be submitted at:
 
-https://github.com/heissonly/media-control-shortcuts/issues
+https://github.com/heissonly/media-control-shortcuts-privacy/issues
